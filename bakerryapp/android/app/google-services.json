@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1026406124391",
+    "project_id": "fir-flutter-2b587",
+    "storage_bucket": "fir-flutter-2b587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026406124391:android:db3222db64544dc48c3dc2",
+        "android_client_info": {
+          "package_name": "com.example.bakerryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP333MTKWuAcuaC1YHYWRHPUclr-oL5Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026406124391:android:bc53113b9cf0d6c88c3dc2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP333MTKWuAcuaC1YHYWRHPUclr-oL5Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026406124391:android:ef535260c2e7feb68c3dc2",
+        "android_client_info": {
+          "package_name": "com.example.router_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP333MTKWuAcuaC1YHYWRHPUclr-oL5Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
